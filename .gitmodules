@@ -1,0 +1,3 @@
+[submodule "submodulerepo2"]
+	path = submodulerepo2
+	url = https://github.com/GowdhamanBJ-7/submodulerepo2.git
